@@ -75,7 +75,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 42px;
+  padding: 42px 0px;
 }
 
 .banner-sub-title {
@@ -111,3 +111,10 @@ main {
   max-width: 480px;
 }
 /* banner style end */
+
+/* logo bar style start */
+.logo-bar {
+  padding: 42px 0px;
+  margin-left: -50px;
+}
+/* logo bar style end */
