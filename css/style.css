@@ -262,3 +262,61 @@ main {
   line-height: 27px;
 }
 /* testimonial style end */
+
+/* footer style start */
+footer {
+  margin: 0px 142px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 42px 0px;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.footer-title {
+  color: #2d2d2d;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 42px;
+  padding-bottom: 24px;
+}
+
+.footer-description {
+  color: #2d2d2d;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+.social-icon {
+  margin-top: 42px;
+}
+
+#social-icon {
+  margin-left: 24px;
+}
+
+#contact-form {
+  margin-left: 400px;
+}
+
+.form input[type="text"],
+input[type="email"] {
+  display: block;
+  margin-bottom: 12px;
+  padding: 18px 35px;
+  color: #2d2d2d;
+  border-radius: 5px;
+  background-color: #f3f3f3;
+  border: 0;
+  width: 100%;
+}
+/* footer style end */
